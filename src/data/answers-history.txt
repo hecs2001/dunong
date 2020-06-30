@@ -1,0 +1,10 @@
+01;Severino Diaz, Inocencio Herrera, Gabriel Prieto;Mariano Gomez, Jose Burgos, Jacinto Zamora;Padre Damaso, Padre Salvi, Pilosopo Tasio;Severino Diaz, Inocencio Herrera, Gabriel Prieto;Hermano Pule, Pedro Calungsod, Leonardo Legaspi;
+02;March 1521;July 1621;July 1947;April 1450;March 1521;
+03;King Leopold II of Belgium;King Leopold II of Belgium;Martin Luther King, Jr.;Elizabeth II of the United Kingdom;Gustaf VI Adolf of Sweden;
+04;Ferdinand Marcos;Corazon Aquino;Gloria Macapagal-Arroyo;Sergio Osmeña;Ferdinand Marcos;
+05;Aluling Bridge;San Juanico Bridge;Patapat Viaduct;Aluling Bridge;Panguil Bay Bridge;
+06;Corporal Romualdo Rubi;Simo Häyhä;Corporal Romualdo Rubi;Lieutenant Colonel Dionisio Ojeda;Lieutenant Jose Artiaga;
+07;Palawan;Mountain Province;Palawan;Mindoro;Batanes;
+08;Hong Kong;Hong Kong;Philippines;Spain;United State of America;
+09;University of Santo Tomas;University of the Philippines;De La Salle University;University of Santo Tomas;Far Eastern University;
+10;1946;1953;1938;1942;1946;

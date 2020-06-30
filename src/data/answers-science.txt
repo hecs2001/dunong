@@ -1,0 +1,10 @@
+01;Saturn;Jupiter;Saturn;Uranus;Neptune;
+02;Octopus;Jellyfish;Sperm Whale;Crocodile;Octopus;
+03;Sugar Apple;Pineapple;Sugar Apple;Watermelon;Bananas;
+04;Nitrogen;Nitrogen;Hydrogen;Oxygen;Lithium;
+05;1650-1660;1650-1660;1590-1600;1630-1640;1670-1680;
+06;Jaws;Biceps;Jaws;Buttocks;Legs;
+07;Kitti's Hog-nosed Bat;Tarsier;Pygmy Jerboa;American Shrew Mole;Kitti's Hog-nosed Bat;
+08;Wilhelm Roentgen;Nikola Tesla;Thomas Edison;Wilhelm Roentgen;Benjamin Franklin;
+09;Horseshoe Crabs;Regal blue Tangs;Axolotls;Horseshoe Crabs;Anentome helena (Assassin snails);
+10;Autotrophs;Carnivores;Herbivores;Heterotrophs;Autotrophs;

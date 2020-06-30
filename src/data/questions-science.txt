@@ -1,0 +1,10 @@
+01;<html><center>Which planet in our solar system has the most moons?</center></html>;
+02;<html><center>Among the given animals, which of these has a total of three [3] hearts?</center></html>;
+03;<html><center>Which one of these is <b>NOT</b> a berry?</center></html>;
+04;<html><center>Which element is the most abundant in the Earth’s atmosphere?</center></html>;
+05;<html><center>Within what year was the word <i>“gas”</i> coined?</center></html>;
+06;<html><center>Which part of the human body can the strongest muscle be found?</center></html>;
+07;<html><center>What is the smallest Mammal in the world?</center></html>;
+08;<html><center>Who discovered X-Rays?</center></html>;
+09;<html><center>Which of these animals has a bluish blood color?</center></html>;
+10;<html><center>What do you call organisms that produce their own food?</center></html>;

@@ -1,0 +1,10 @@
+01;Labyrinth;Tower of Babel;Temple of Apollo;Labyrinth;Olympus;
+02;The Key to Immortality;The Gates of Babylon;The Key to Immortality;His purpose for existence;Enkidu;
+03;Shiva;Karna;Vishnu;Brahma;Shiva;
+04;Bakunawa;Laho;Bakunawa;Minokawa;Tambanokano;
+05;Tuatha Dé Danann;The Brotherhood;Tuatha Dé Danann;Leprechauns;Changelings;
+06;Atlas;Typhon;Kalypso;Atlas;Phoebe;
+07;Ragnarok;Ragnarok;Valhalla;Odin;Endgame;
+08;Icarus;Icarus;Daedalus;Hermes;Hephaestus;
+09;Kapre;Tikbalang;Duwende;Kapre;Diwata;
+10;Achilles;Odysseus;Achilles;Andromache;Patroclus;
